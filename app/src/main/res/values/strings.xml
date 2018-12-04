@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SchMeet</string>
+    <string name="action_settings">Settings</string>
+    <string name="namePt1">Sch</string>
+    <string name="namePt2">Meet</string>
+    <string name="slogan">Schedule Meetings like never before</string>
+    <string name="enter">Start</string>
+</resources>
